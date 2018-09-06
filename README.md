@@ -1,14 +1,24 @@
 # aprendendo-javascript
-Repositório criado para exercícios em JavaScript.
+Repositório criado para exercícios em JavaScript.  
+
+#**Objetivo**
+
+A ideia é exercitar e aprender sobre lógica de programação e Git. Seja contribuindo com a correção de exercícios de algum participante ou adicionando a própria lista de exercícios para
+ser corrigida ou servida como espelho para outros.
+
+#**Listas**
+
+* [Listas](https://drive.google.com/drive/folders/1aXCUcabtyW6zDZXYUz7f4GQ4z3_MJOFa?usp=sharing)
 
 # **Observações**
 
 * Só será aceita codificação em JavaScript;
-* Deixe o seu código padronizado.
+* Faça uso de boas práticas de programação;
+* Envie-nos sugestões para melhorias.
 
 # **Padrões**
 
-* Para uma nova lista de exercício, observe a sequência das já que foram criadas e crie "lista0x", onde x é o número;
+* Para uma nova lista de exercício, observe a sequência das que já que foram criadas e crie "lista0x", onde x é o número;
 * Todos os exercícios devem ser escritos por "Qx-primeiro nome", por exemplo, "Q1-mayara" em que "Q" significa Questão e "1" o primeiro exercício da lista. 
 
 # Contribuições
@@ -28,7 +38,7 @@ Qualquer tipo de ajuda (seja ela grande ou pequena) é bem-vinda.
 **1.** Faça referência ao repositório oficial após o _fork_ 
 
 ```
-git remote add upstream git@github.com:mayararysia/aprendendo-javascript.git
+git remote add upstream https://github.com/mayararysia/aprendendo-javascript.git
 ```
 
 **2.** Antes de iniciar o processo de contribuição, crie uma **nova branch** para fazer suas alterações.
@@ -74,7 +84,8 @@ git push -f origin master
 ### Boas práticas
 
 - Antes de enviar sua contribuição se certifique de que está enviando apenas um **único** commit que represente o que foi feito;
-- Sempre Estude o Git em caso de dúvidas.
+- Sempre Estude o Git em caso de dúvidas;
+- Evite Bad Smells.
 
 Obrigada! :heart:
 
