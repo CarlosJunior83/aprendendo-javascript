@@ -1,12 +1,12 @@
 # aprendendo-javascript
 Repositório criado para exercícios em JavaScript.  
 
-#**Objetivo**
+# **Objetivo**
 
 A ideia é exercitar e aprender sobre lógica de programação e Git. Seja contribuindo com a correção de exercícios de algum participante ou adicionando a própria lista de exercícios para
 ser corrigida ou servida como espelho para outros.
 
-#**Listas**
+# **Listas**
 
 * [Listas](https://drive.google.com/drive/folders/1aXCUcabtyW6zDZXYUz7f4GQ4z3_MJOFa?usp=sharing)
 
@@ -19,6 +19,7 @@ ser corrigida ou servida como espelho para outros.
 # **Padrões**
 
 * Para uma nova lista de exercício, observe a sequência das que já que foram criadas e crie "lista0x", onde x é o número;
+* Crie uma pasta com seu nome dentro da lista e adicione as questões;
 * Todos os exercícios devem ser escritos por "Qx-primeiro nome", por exemplo, "Q1-mayara" em que "Q" significa Questão e "1" o primeiro exercício da lista. 
 
 # Contribuições
